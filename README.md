@@ -4,7 +4,7 @@
 
 I'm currently pursuing a degree in Big Data and Artificial Intelligence at the Pontifical Catholic University of Goiás (PUC-GO).
 
-As a data analysis intern, I work primarily with Power BI, SQL, Snowflake, and Power Automate, always looking to grow my portfolio and welcoming any feedback along the way.
+As a analytics engineer, I work primarily with Power BI, SQL, Databricks, dbt and Power Automate, always looking to grow my portfolio and welcoming any feedback along the way.
 
 I'll be sharing my projects—both academic and personal—here and on LinkedIn. Feel free to connect or reach out through my social media!
 <p align="left">
