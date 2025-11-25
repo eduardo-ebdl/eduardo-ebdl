@@ -1,53 +1,34 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&section=header&reversal=false"/>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Hi!+My+name+is+Eduardo+Lima.;Analytics+Engineer;Automation+Enthusiast)](https://git.io/typing-svg)
-</div>
 
-### 👨‍💻 About Me
-
-I'm currently pursuing a degree in **Big Data and Artificial Intelligence** at the Pontifical Catholic University of Goiás (PUC-GO).
-
-As an **Analytics Engineer**, I specialize in building robust data pipelines and automating complex workflows. My focus is on the Modern Data Stack and delivering actionable insights through data modeling and visualization.
-
-* 🔭 I’m currently working with **Databricks, dbt, and Power Automate**.
-* 🌱 I’m currently learning more about **Generative AI & MLOps**
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <br />
-
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/eduardo-ebdl">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-ebdl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-ebdl&layout=compact&theme=tokyonight"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Eduardo+Lima;Building+Automations" alt="Typing SVG" />
   </a>
+
+  <br/>
+
+  <p>
+    Analytics Engineer specializing in <strong>Databricks</strong>, <strong>dbt</strong>, and <strong>Power BI</strong>. <br/>
+    Developing robust <strong>Power Automate</strong> workflows (Try-Catch patterns & Standardization). <br/>
+    Currently transitioning to <strong>AI Engineering</strong> (GenAI & MLOps).
+  </p>
+
+  <br/>
+
+  <div id="badges">
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks Badge"/>
+    <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt Badge"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate Badge"/>
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n Badge"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/>
+  </div>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-ebdl&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<br/>
+
+### Latest Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eduardo-ebdl/eduardo-ebdl/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/eduardo-ebdl/eduardo-ebdl/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
