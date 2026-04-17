@@ -71,7 +71,7 @@
   <!-- Text block -->
   <g font-family="'SF Mono', 'Monaco', 'Consolas', 'Courier New', monospace">
     <text x="500" y="145" font-size="42" font-weight="700" fill="#f1f5f9" letter-spacing="0.5">Eduardo Lima</text>
-    <text x="500" y="180" font-size="16" font-weight="400" fill="#64748b" letter-spacing="3">AI &amp; ANALYTICS ENGINEER</text>
+    <text x="500" y="180" font-size="16" font-weight="400" fill="#64748b" letter-spacing="3">AI ENGINEER</text>
     <line x1="500" y1="200" x2="560" y2="200" stroke="url(#accent)" stroke-width="2"/>
   </g>
 </svg>
